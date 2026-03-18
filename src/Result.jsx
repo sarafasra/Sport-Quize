@@ -8,7 +8,7 @@ export default function Result({ score = 8, total = 20, correct = 15, wrong = 5 
     <div className={`result-container ${darkMode ? "dark" : ""}`}>
       <div className="result-card">
 
-        <div className="result-title">QUIZ RESULT</div>
+        <div className="result-title">QUIZ quiz</div>
 
         <div className="score-box">
           <h2>🎉 Congratulations 🎉</h2>
